@@ -11,6 +11,11 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
+## Contributing
+
+All work on the app is tracked on the [Trello page](https://trello.com/b/h38ksFhi/teamcomms-app).
+Feel free to add ideas and feedback.
+
 ## Learn more
 
   * Official website: http://www.phoenixframework.org/
