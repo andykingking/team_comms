@@ -13,7 +13,7 @@ config :logger, level: :warn
 config :team_comms, TeamComms.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
-  password: "postgres",
-  database: "team_comms_test",
+  password: "",
+  database: "travis_ci_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
